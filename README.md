@@ -1,2 +1,2 @@
 # shutterbugg_project
-Sample website created using basics of Bootstrap programming
+Sample landing page for a photo-based application using HTML, CSS, and Bootstrap 5
